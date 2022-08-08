@@ -1,0 +1,6 @@
+~~~~~~~~~
+Good day!
+This is a test file.
+Created for testing purposes on Mon, Aug 8, 2022.
+Good bye!
+~~~~~~~~~
